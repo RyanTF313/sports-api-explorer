@@ -72,6 +72,8 @@ Developer Empathy
 Error states, placeholders, and examples are written for humans—not machines.
 
 ## :building_construction: Architecture Overview
+
+```
 src/
 ├─ components/
 │  ├─ EndpointSelector
@@ -84,6 +86,7 @@ src/
 ├─ types/
 │  └─ api.ts
 └─ App.tsx
+```
 
 ## Endpoint Configuration
 
