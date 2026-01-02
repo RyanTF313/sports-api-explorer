@@ -122,7 +122,7 @@ Tailwind CSS
 
 Fetch API
 
-Prism.js (syntax highlighting)
+Prism.js (syntax highlighting for response JSON)
 
 ## :globe_with_meridians: API Used
 
